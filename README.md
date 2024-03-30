@@ -2,6 +2,11 @@
 
 If your torrent client (like qBittorrent) renamed your torrent's filename to its hash and you want to rename it back to torrent's name, this Python 3 script will help you do that.
 
+## optimization
+make sure you have python installed.
+put torrent file in input folder,and execution "run.py".Processed files will show in the"output"folder.
+if miss requirements,just run Request Dependency.py(test yet)
+
 ## Dependency
 
 * [torrentool](https://github.com/idlesign/torrentool)
